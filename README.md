@@ -1,7 +1,7 @@
 # loi132
-Projet Clojure pour calculer la compensation d'un MHH,
-tel que spécifié dans le Projet de règlement sur la Loi sur la qualité
-de l'environnement (chapitre Q-2) (Québec, CA).  Compensation pour
+Projet Clojure pour calculer la compensation d'un MHH, tel que
+spécifié dans le Projet de règlement sur la Loi sur la qualité de
+l'environnement (chapitre Q-2) (Québec, CA).  Compensation pour
 l'atteinte aux milieux humides et hydriques.
 
 ## Usage
