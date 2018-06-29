@@ -1,12 +1,14 @@
 # loi132
-Voici une librairie Clojure pour calculer la compensation d'un MHH,
+Projet Clojure pour calculer la compensation d'un MHH,
 tel que spécifié dans le Projet de règlement sur la Loi sur la qualité
 de l'environnement (chapitre Q-2) (Québec, CA).  Compensation pour
 l'atteinte aux milieux humides et hydriques.
 
 ## Usage
 Ajouter, à la suite les unes des autres, et séparées par un espace,
-les valeurs initiales (var) suivantes pour le calcul de la contribution:
+les valeurs initiales (var) suivantes pour le calcul de la
+contribution avec le fichier compilé avec Leiningen "*standalone*jar"
+dans le répertoire target.
 
 var:
 lfini ni R vt1 sup s
