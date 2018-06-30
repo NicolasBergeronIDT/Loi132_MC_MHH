@@ -11,7 +11,11 @@ contribution avec le fichier compilé avec Leiningen "*standalone*jar"
 dans le répertoire target.
 
 var:
-lfini niR vt1 sup s
+lfini
+niR
+vt1
+sup
+s
 
 Sachant que:
 lfini : État initial (LfINI)
@@ -21,7 +25,8 @@ vt1 : Valeur du terrain au compte de taxes ($)
 sup : Superficie totale du terrain au compte de taxes (m2)
 s : Superficie affectée (m2)
 
-var: lfini niR vt1 sup s
+var:
+lfini niR vt1 sup s
 
 Sachant que:
 lfini : État initial (LfINI)
