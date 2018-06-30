@@ -13,7 +13,6 @@ dans le répertoire target.
 var: lfini niR vt1 sup s
 
 Sachant que:  
-
     lfini : État initial (LfINI)
     ni : Impact de l'activité (NI)
     R : Facteur de modulation régionale
