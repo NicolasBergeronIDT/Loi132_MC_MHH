@@ -34,6 +34,9 @@ Exemple d'utilisation:
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar lfini ni R vt1 sup s`
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar 1 0 1.2 88100.00 220212.20 100`
 
+# $windows$
+Pour vous simplier la vie ... utiliser le fichier: mc.bat
+
 # License
 Nicolas Bergeron
 
