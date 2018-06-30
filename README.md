@@ -13,9 +13,9 @@ dans le répertoire target.
 var: lfini niR vt1 sup s
 
 Sachant que:  
-    lfini : État initial (LfINI)
-    ni : Impact de l'activité (NI)
-    R : Facteur de modulation régionale
+    lfini : État initial (LfINI)..
+    ni : Impact de l'activité (NI)..
+    R : Facteur de modulation régionale..
     vt1 : Valeur du terrain au compte de taxes ($)
     sup : Superficie totale du terrain au compte de taxes (m2)
     s : Superficie affectée (m2)
