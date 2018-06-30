@@ -10,8 +10,7 @@ les valeurs initiales (var) suivantes pour le calcul de la
 contribution avec le fichier compilé avec Leiningen "*standalone*jar"
 dans le répertoire target.
 
-var:
-lfini ni R vt1 sup s
+var:  lfini niR vt1 sup s
 
 Sachant que:
     lfini : État initial (LfINI)
