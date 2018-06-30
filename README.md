@@ -10,8 +10,8 @@ les valeurs initiales (var) suivantes pour le calcul de la
 contribution avec le fichier compilé avec Leiningen "*standalone*jar"
 dans le répertoire target.
 
-<<<<<<< HEAD
-var:  lfini niR vt1 sup s
+var:
+lfini niR vt1 sup s
 
 Sachant que:
 lfini : État initial (LfINI)
@@ -20,17 +20,16 @@ R : Facteur de modulation régionale
 vt1 : Valeur du terrain au compte de taxes ($)
 sup : Superficie totale du terrain au compte de taxes (m2)
 s : Superficie affectée (m2)
-=======
+
 var: lfini niR vt1 sup s
 
-Sachant que:  
-    lfini : État initial (LfINI)  
-    ni : Impact de l'activité (NI)  
-    R : Facteur de modulation régionale  
-    vt1 : Valeur du terrain au compte de taxes ($)  
-    sup : Superficie totale du terrain au compte de taxes (m2)  
-    s : Superficie affectée (m2)  
->>>>>>> 696f8b613a02e499ff9dfbcf96a51e2902f55102
+Sachant que:
+lfini : État initial (LfINI)
+ni : Impact de l'activité (NI)
+R : Facteur de modulation régionale
+vt1 : Valeur du terrain au compte de taxes ($)
+sup : Superficie totale du terrain au compte de taxes (m2)
+s : Superficie affectée (m2)
 
 Il va de soi que vous devez ajuster ces valeurs pour chacun des cas de compensation.
 
