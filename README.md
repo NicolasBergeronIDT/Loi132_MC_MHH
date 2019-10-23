@@ -13,7 +13,8 @@ uberjar`dans le répertoire target.
 var:
 
 * lfini
-* niR
+* ni
+* R
 * vt1
 * sup
 * s
