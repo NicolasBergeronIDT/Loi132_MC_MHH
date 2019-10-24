@@ -13,7 +13,7 @@ Pour plus d'info concernant la version de Java sur votre ordinateur:
 
 [Java](https://www.java.com/fr/download/installed.jsp)
 
-Sinon vous le faite dans une feuille de calcul (excel, LibreOfficeCalc) avec ces milles et une version; la mienne en est une :-)
+Sinon vous le faite dans une feuille de calcul (excel, LibreOfficeCalc) avec ces "milles et une version"; la mienne en est une :-)
 
 # Usage pour Windows, Linux, BSD, Mac
 
@@ -21,7 +21,7 @@ télécharger depuis le répertoire ./target le fichier compilé :
 
 "loi132-0.1.0-SNAPSHOT-standalone.jar"
 
-Le standalone permet l'indépendance du jar (uberjar). Vous n'aurez donc aucun ajout à faire pour faire fonctionner le uberjar.
+Le standalone permet l'indépendance du jar (uberjar). Vous n'aurez donc aucun ajout à faire pour faire fonctionner avec Java.
 
 Ajouter, à la suite les unes des autres, et séparées par un espace,
 les valeurs initiales (var) suivantes pour le calcul de la
