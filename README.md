@@ -56,8 +56,6 @@ Commande avec les paramètres
 Même commande mais cette fois-ci avec les "var"
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar 1 0 1.2 88100.00 220212.20 100`
 
-[mc.bat]()
-
 # License
 Nicolas Bergeron
 
