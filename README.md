@@ -39,8 +39,8 @@ Sachant que:
 * ni : Impact de l'activité (NI). Ce  facteur est  celui  qui correspond à la composante du milieu pour laquelle l’impact est le plus important, soit la valeur minimale entre les trois composantes: Végétation, Sol et Eau (min Veg_NI Sol_NI Eau_NI)
 * R : Facteur de modulation régionale par MRC
 * vt1 : Valeur du terrain au compte de taxes ($)
-* sup : Superficie totale du terrain au compte de taxes (m2)
-* s : Superficie affectée par la zone des travaux (m2)
+* sup : Superficie totale du terrain au compte de taxes (m<sup>2</sup>)
+* s : Superficie affectée par la zone des travaux (m<sup>2</sup>)
 
 Il va de soi que vous devez ajuster ces valeurs pour chacun des cas de compensation des MHH.
 
