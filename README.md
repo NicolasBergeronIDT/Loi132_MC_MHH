@@ -4,10 +4,7 @@ Compensation pour l'atteinte aux milieux humides et hydriques (MHH).
 
 Projet Clojure pour calculer la compensation d'un MHH, soit le Montant contribution exigible (MC) ($), tel que spécifié dans le :
 
-Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques. Loi sur la qualité de l’environnement
-(chapitre Q-2, a. 46.0.3, 46.0.5, 46.0.12 et 95.1).
-
-[Q-2, r. 9.1 - Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/Q-2,%20r.%209.1/)
+[Q-2, r. 9.1 - Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques. Loi sur la qualité de l’environnement](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/Q-2,%20r.%209.1/)
 
 # Au préalable
 Il va de soi que Java sera nécessaire mais toutes les dépendances sont résolues au départ. Minimalement ce que vous devez avoir est Java Runtime Environment (JRE). De nos jours, vous avez très certainements Java déjà installé sur votre ordinateur.
