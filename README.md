@@ -46,9 +46,9 @@ Il va de soi que vous devez ajuster ces valeurs pour chacun des cas de compensat
 
 Exemple d'utilisation:
 
-* cmd avec les paramètres
+Commande avec les paramètres
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar lfini ni R vt1 sup s`
-* même commande mais avec les "var"
+Même commande mais cette fois-ci avec les "var"
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar 1 0 1.2 88100.00 220212.20 100`
 
 # $windows$
