@@ -11,8 +11,7 @@ Règlement sur la compensation pour l’atteinte aux milieux humides et hydrique
 # Usage
 Ajouter, à la suite les unes des autres, et séparées par un espace,
 les valeurs initiales (var) suivantes pour le calcul de la
-contribution avec le fichier compilé (standalone.jar) avec `lein
-uberjar`dans le répertoire target.
+MC; avec le fichier compilé "loi132-0.1.0-SNAPSHOT-standalone.jar" dans le répertoire /target.
 
 var:
 
