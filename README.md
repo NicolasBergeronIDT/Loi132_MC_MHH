@@ -35,7 +35,7 @@ var
 
 Sachant que:
 
-* lfini : État initial (LfINI). Le   facteur représentant l’état initial du   milieu    humide « Lf INI ». Ce facteur correspond à la composante du milieu qui est la plus dégradée, soit la valeur minimale entre les trois composantes Végétation, Sol et Eau (min Veg_LfINI Sol_LfINI Eau_LfINI)
+* lfini : État initial (LfINI). Le   facteur représentant l’état initial du   milieu    humide « Lf INI ». Ce facteur correspond à la composante du milieu qui est la plus dégradée, soit la valeur minimale entre les trois composantes: Végétation, Sol et Eau (min Veg_LfINI Sol_LfINI Eau_LfINI)
 * ni : Impact de l'activité (NI)
 * R : Facteur de modulation régionale
 * vt1 : Valeur du terrain au compte de taxes ($)
