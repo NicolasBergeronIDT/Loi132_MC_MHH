@@ -8,13 +8,24 @@ Règlement sur la compensation pour l’atteinte aux milieux humides et hydrique
 
 [Q-2, r. 9.1 - Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/Q-2,%20r.%209.1/)
 
+# Au préalable
+Il va de soi que Java sera nécessaire mais toutes les dépendances sont résolues au départ. Minimalement ce que vous devez avoir est Java Runtime Environment (JRE). De nos jours, vous avez très certainements Java déjà installé sur votre ordinateur.
+
+Pour plus d'info concernant la version de Java sur votre ordinateur:
+
+[Java](https://www.java.com/fr/download/installed.jsp)
+
 # Usage
+
+télécharger depuis le répertoire /target le fichier compilé :
+
+"loi132-0.1.0-SNAPSHOT-standalone.jar"
+
 Ajouter, à la suite les unes des autres, et séparées par un espace,
 les valeurs initiales (var) suivantes pour le calcul de la
-MC; avec le fichier compilé "loi132-0.1.0-SNAPSHOT-standalone.jar" dans le répertoire /target.
+MC; avec le fichier compilé "loi132-0.1.0-SNAPSHOT-standalone.jar", avec comme paramètres les variables suivantes:
 
-var:
-
+var
 * lfini
 * ni
 * R
@@ -24,14 +35,14 @@ var:
 
 Sachant que:
 
-* lfini : État initial (LfINI)
+* lfini : État initial (LfINI). Le   facteur représentant l’état initial du   milieu    humide « Lf INI ». Ce fateur est  correspond à la composante du milieu qui est la plus dégradée, soit la valeur minimale (min Veg_LfINI Sol_LfINI Eau_LfINI)
 * ni : Impact de l'activité (NI)
 * R : Facteur de modulation régionale
 * vt1 : Valeur du terrain au compte de taxes ($)
 * sup : Superficie totale du terrain au compte de taxes (m2)
 * s : Superficie affectée par la zone des travaux (m2)
 
-Il va de soi que vous devez ajuster ces valeurs pour cHaCuN des cas de compensation des MHH.
+Il va de soi que vous devez ajuster ces valeurs pour chacun des cas de compensation des MHH.
 
 Exemple d'utilisation:
 
