@@ -13,11 +13,15 @@ Pour plus d'info concernant la version de Java sur votre ordinateur:
 
 [Java](https://www.java.com/fr/download/installed.jsp)
 
-# Usage
+Sinon vous le faite dans une feuille de calcul (excel, LibreOfficeCalc) avec ces milles et une version; la mienne en est une :-)
 
-télécharger depuis le répertoire /target le fichier compilé :
+# Usage pour Windows, Linux, BSD, Mac
+
+télécharger depuis le répertoire ./target le fichier compilé :
 
 "loi132-0.1.0-SNAPSHOT-standalone.jar"
+
+Le standalone permet l'indépendance du jar (uberjar). Vous n'aurez donc aucun ajout à faire pour faire fonctionner le uberjar.
 
 Ajouter, à la suite les unes des autres, et séparées par un espace,
 les valeurs initiales (var) suivantes pour le calcul de la
@@ -51,8 +55,7 @@ Commande avec les paramètres
 Même commande mais cette fois-ci avec les "var"
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar 1 0 1.2 88100.00 220212.20 100`
 
-# $windows$
-Pour vous simplier la vie ... utiliser le fichier: mc.bat
+[mc.bat]()
 
 # License
 Nicolas Bergeron
