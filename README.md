@@ -1,4 +1,5 @@
-# loi132
+# Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques. Loi sur la qualité de l’environnement (chapitre Q-2, a. 46.0.3, 46.0.5, 46.0.12 et 95.1).
+
 Compensation pour l'atteinte aux milieux humides et hydriques (MHH).
 
 Projet Clojure pour calculer la compensation d'un MHH, soit le Montant contribution exigible (MC) ($), tel que spécifié dans le :
