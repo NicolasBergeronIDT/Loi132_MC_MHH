@@ -48,6 +48,7 @@ Exemple d'utilisation:
 
 Commande avec les paramètres
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar lfini ni R vt1 sup s`
+
 Même commande mais cette fois-ci avec les "var"
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar 1 0 1.2 88100.00 220212.20 100`
 
