@@ -1,8 +1,14 @@
 # loi132
-Projet Clojure pour calculer la compensation d'un MHH, tel que
-spécifié dans le Projet de règlement sur la Loi sur la qualité de
-l'environnement (chapitre Q-2) (Québec, CA).  Compensation pour
-l'atteinte aux milieux humides et hydriques.
+Compensation pour l'atteinte aux milieux humides et hydriques (MHH).
+
+Projet Clojure pour calculer la compensation d'un MHH, soit le Montant contribution exigible (MC) ($), tel que spécifié dans le :
+
+-
+Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques. Loi sur la qualité de l’environnement
+(chapitre Q-2, a. 46.0.3, 46.0.5, 46.0.12 et 95.1).
+-
+
+- [Q-2, r. 9.1 - Règlement sur la compensation pour l’atteinte aux milieux humides et hydriques](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/Q-2,%20r.%209.1/)
 
 # Usage
 Ajouter, à la suite les unes des autres, et séparées par un espace,
@@ -26,13 +32,15 @@ Sachant que:
 * R : Facteur de modulation régionale
 * vt1 : Valeur du terrain au compte de taxes ($)
 * sup : Superficie totale du terrain au compte de taxes (m2)
-* s : Superficie affectée (m2)
+* s : Superficie affectée par la zone des travaux (m2)
 
-Il va de soi que vous devez ajuster ces valeurs pour chacun des cas de compensation.
+Il va de soi que vous devez ajuster ces valeurs pour cHaCuN des cas de compensation.
 
 Exemple d'utilisation:
 
+* cmd avec les paramètres
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar lfini ni R vt1 sup s`
+* même commande mais avec les "var"
 * `java -jar {PATH}/loi132-0.1.0-SNAPSHOT-standalone.jar 1 0 1.2 88100.00 220212.20 100`
 
 # $windows$
